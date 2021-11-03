@@ -20,5 +20,5 @@ File.open("data/3.txt", "r") do |file| # открываем файл со вхо
   end
 end
 
-puts "Код от замка на двери: #{code}."
+puts code
 
