@@ -30,5 +30,5 @@ File.open("data/1.txt", "r") do |file| #Открываем файл со вхо�
   end
 end
 
-puts "Бомба на #{floor} этаже."
+puts floor
 
